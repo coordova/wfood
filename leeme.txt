@@ -1,0 +1,97 @@
+================================================================================
+PROJECT SETUP
+================================================================================
+
+npx create-next-app@latest .
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button calendar input label popover select
+npm i framer-motion leaflet react-leaflet react-responsive react-scroll react-icons
+
+
+================================================================================
+HISTORIAL LINEA DE COMANDOS
+================================================================================
+
+D:\www\prj\@Cristian Mihai                                                      
+λ cd wfood.react\                                                               
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react                                          
+λ code .                                                                        
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react                                          
+λ npx create-next-app@latest .                                                  
+Need to install the following packages:                                         
+create-next-app@14.0.4                                                          
+Ok to proceed? (y) y                                                            
+√ Would you like to use TypeScript? ... No / Yes                                
+√ Would you like to use ESLint? ... No / Yes                                    
+√ Would you like to use Tailwind CSS? ... No / Yes                              
+√ Would you like to use `src/` directory? ... No / Yes                          
+√ Would you like to use App Router? (recommended) ... No / Yes                  
+√ Would you like to customize the default import alias (@/*)? ... No / Yes      
+Creating a new Next.js app in D:\www\prj\@Cristian Mihai\wfood.react.           
+                                                                                
+Using npm.                                                                      
+                                                                                
+Initializing project with template: app-tw                                      
+                                                                                
+                                                                                
+Installing dependencies:                                                        
+- react                                                                         
+- react-dom                                                                     
+- next                                                                          
+                                                                                
+Installing devDependencies:                                                     
+- autoprefixer                                                                  
+- postcss                                                                       
+- tailwindcss                                                                   
+                                                                                
+                                                                                
+added 110 packages, and audited 111 packages in 37s                             
+                                                                                
+21 packages are looking for funding                                             
+  run `npm fund` for details                                                    
+                                                                                
+found 0 vulnerabilities                                                         
+Initialized a git repository.                                                   
+                                                                                
+Success! Created wfood.react at D:\www\prj\@Cristian Mihai\wfood.react          
+                                                                                
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react (master)                                 
+λ npx shadcn-ui@latest init                                                     
+√ Would you like to use TypeScript (recommended)? ... no / yes                  
+√ Which style would you like to use? » Default                                  
+√ Which color would you like to use as base color? » Slate                      
+√ Where is your global CSS file? ... app/globals.css                            
+√ Would you like to use CSS variables for colors? ... no / yes                  
+√ Where is your tailwind.config.js located? ... tailwind.config.js              
+√ Configure the import alias for components: ... @/components                   
+√ Configure the import alias for utils: ... @/lib/utils                         
+√ Are you using React Server Components? ... no / yes                           
+√ Write configuration to components.json. Proceed? ... yes                      
+                                                                                
+✔ Writing components.json...                                                    
+✔ Initializing project...                                                       
+✔ Installing dependencies...                                                    
+                                                                                
+Success! Project initialization completed.                                      
+                                                                                
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react (master)                                 
+λ npx shadcn-ui@latest add button calendar input label popover select           
+✔ Done.                                                                         
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react (master)                                 
+λ npm i framer-motion leaflet react-leaflet react-responsive react-scroll react-
+icons                                                                           
+                                                                                
+up to date, audited 177 packages in 6s                                          
+                                                                                
+25 packages are looking for funding                                             
+  run `npm fund` for details                                                    
+                                                                                
+found 0 vulnerabilities                                                         
+                                                                                
+D:\www\prj\@Cristian Mihai\wfood.react (main -> origin)                         
+λ                                                                               
